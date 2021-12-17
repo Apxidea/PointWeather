@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PointWeather</string>
+    <string name="toast">Введите город!</string>
+</resources>
